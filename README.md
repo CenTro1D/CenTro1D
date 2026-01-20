@@ -7,7 +7,7 @@ Cloud Computing (AWS),
 Linux & Networking,
 CI/CD pipelines,
 Infrastructure as Code,
-DevOps best practices
+and DevOps best practices.
 
 :- I approach technology with structured problem-solving, clear logic, and a hands-on mindset. My learning is practical and implementation-focused—everything I study is backed by labs, projects, and real-world simulations.
 
